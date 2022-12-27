@@ -16,15 +16,13 @@ h1, h2, h3, h4, h5, h6{
     
 }
 .keyboard-bg{
-    /* filter: blur(8px); */
-background-image: url(/images/kb1.jpg);
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
+  background: url("/images/hackathon-kbd.jpg") no-repeat fixed center;
+  background-size: cover;
 }
 
-.glass-card{
-    backdrop-filter: blur(20px);
+.contact{
+  background: url("/images/get-in-touch.jpg") no-repeat bottom;
+  background-size: cover;
 }
 
 .swiper {
