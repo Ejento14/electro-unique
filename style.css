@@ -19,11 +19,11 @@ h1, h2, h3, h4, h5, h6{
   background: url("/Images/hackathon-kbd.jpg") no-repeat fixed center;
   background-size: cover;
 }
-
+/* 
 .contact{
   background: url("/Images/get-in-touch.jpg") no-repeat bottom;
   background-size: cover;
-}
+} */
 
 .swiper {
   width: 100%;
