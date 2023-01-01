@@ -1,9 +1,4 @@
 import "./styles.css";
-import logoCard from "./Images/logo-card.svg";
-import logoSm from "./Images/logo-sm.svg";
-
-document.getElementById("logo-card").setAttribute("src", logoCard);
-document.getElementById("logo-sm").setAttribute("src", logoSm);
 
 const swiper = new Swiper(".swiper", {
     // Optional parameters
